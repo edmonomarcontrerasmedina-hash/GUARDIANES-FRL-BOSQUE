@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Mi Escuela</title>
+  <title>Daniela</title>
 </head>
 <body>
-  <h1>CONALEP Aguascalientes</h1>
-  <h2>Información de mi escuela</h2>
-  <p>Esta es mi escuela donde estudio programación.</p>
-  <h3>Materias que curso:</h3>
+  <h1>Hola, soy Daniela</h1>
+  <h2>Mi Escuela</h2>
+  <p>Estudio en CONALEP Aguascalientes.</p>
+  <h3>Mis materias:</h3>
   <ul>
     <li>Desarrollo Web</li>
     <li>Programación</li>
